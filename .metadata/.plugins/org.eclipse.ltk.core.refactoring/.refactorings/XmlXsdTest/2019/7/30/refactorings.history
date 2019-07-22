@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.riptide.xml.sax.parsers.MovieXmsParser&apos; to &apos;MovieXmlParser&apos;&#x0D;&#x0A;- Original project: &apos;XmlXsdTest&apos;&#x0D;&#x0A;- Original element: &apos;com.riptide.xml.sax.parsers.MovieXmsParser&apos;&#x0D;&#x0A;- Renamed element: &apos;com.riptide.xml.sax.parsers.MovieXmlParser&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MovieXmsParser&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.riptide.xml.sax.parsers{MovieXmsParser.java[MovieXmsParser" matchStrategy="1" name="MovieXmlParser" qualified="false" references="true" similarDeclarations="false" stamp="1563799648673" textual="false" version="1.0"/>
+</session>
