@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rip:movies xmlns:rip="http://www.riptide.com/movies" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.riptide.com/movies movies.xsd ">
+  <rip:movie>
+    <rip:code>5001</rip:code>
+    <rip:title>Southpaw</rip:title>
+    <rip:theater-name>Cinepolis</rip:theater-name>
+  </rip:movie>
+  <rip:movie>
+  	<rip:code>5002</rip:code>
+  	<rip:title>Warrior</rip:title>
+  	<rip:theater-name>Broadway</rip:theater-name>
+  </rip:movie>
+</rip:movies>
