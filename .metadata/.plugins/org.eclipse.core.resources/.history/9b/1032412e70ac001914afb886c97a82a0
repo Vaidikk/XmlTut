@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Warrior</title>
+    <release-date>
+    	<day>16</day>
+    	<month>2</month>
+    	<year>2019</year>
+    </release-date>
+    <theater-name>PVR</theater-name>
+    <theater-name>Cinepolis</theater-name>
+    <city>Pune</city>
+  </movie>
+  
+  <movie>
+    <code>102</code>
+    <title>Southpaw</title>
+    <theater-name>PVR</theater-name>
+  </movie>
+</movies>
